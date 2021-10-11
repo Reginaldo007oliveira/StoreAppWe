@@ -24,6 +24,7 @@
     "vtex.product-context": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.product-context@0.10.0/public/@types/vtex.product-context",
     "vtex.render-runtime": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.render-runtime@8.132.3/public/@types/vtex.render-runtime",
     "vtex.search-graphql": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.47.0/public/@types/vtex.search-graphql",
-    "vtex.store-image": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-image@0.14.1/public/@types/vtex.store-image"
+    "vtex.store-image": "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.store-image@0.14.1/public/@types/vtex.store-image",
+    "wedigi.storefront-appgenerica": "https://steve--wedigi.myvtex.com/_v/private/typings/linked/v1/wedigi.storefront-appgenerica@0.1.0+build1633905337/public/@types/wedigi.storefront-appgenerica"
   }
 }

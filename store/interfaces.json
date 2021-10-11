@@ -4,5 +4,8 @@
   },
   "drawn-badge": {
     "component": "DrawnBadge"
+  },
+  "new-header": {
+    "component": "NewHeader"
   }
 }

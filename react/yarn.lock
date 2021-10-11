@@ -4990,6 +4990,10 @@ webidl-conversions@^4.0.2:
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-4.0.2.tgz#a855980b1f0b6b359ba1d5d9fb39ae941faa63ad"
   integrity sha512-YQ+BmxuTgd6UXZW3+ICGfyqRyHXVlD5GtQr5+qjiNW7bF0cqrzX500HVXPBOvgXb5YnzDd+h0zqyv61KUD7+Sg==
 
+"wedigi.storefront-appgenerica@https://steve--wedigi.myvtex.com/_v/private/typings/linked/v1/wedigi.storefront-appgenerica@0.1.0+build1633905337/public/@types/wedigi.storefront-appgenerica":
+  version "0.1.0"
+  resolved "https://steve--wedigi.myvtex.com/_v/private/typings/linked/v1/wedigi.storefront-appgenerica@0.1.0+build1633905337/public/@types/wedigi.storefront-appgenerica#125cb547400eabd76700f4c70f6306f59e72e52b"
+
 whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/whatwg-encoding/-/whatwg-encoding-1.0.5.tgz#5abacf777c32166a51d085d6b4f3e7d27113ddb0"
